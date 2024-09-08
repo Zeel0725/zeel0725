@@ -1,6 +1,6 @@
 # Hi, I'm Zeel 👋
 
-### 👨‍💻  Machine Learning Enthusiast | Aspiring Robotics Aspirant
+### 👨‍💻  Machine Learning Enthusiast 
 
 I am a final-year Mechanical Engineering student passionate about exploring the intersections of machine learning and robotics. Currently, I'm focused on using my engineering skills to solve complex problems, working on exciting projects in both the mechanical and data science fields.
 
