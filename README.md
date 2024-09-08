@@ -1,3 +1,5 @@
+![Banner](banner.jpg)
+
 # Hi, I'm Zeel 👋
 
 ### 👨‍💻  Machine Learning Enthusiast 
