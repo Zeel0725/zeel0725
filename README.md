@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](PIC.png)
 
 # Hi, I'm Zeel 👋
 
