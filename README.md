@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Mechanical Engineering** undergraduate student with hands-on experience in CAD and Machine Learning.
+- 🎓 **Mechanical Engineering** undergraduate student with hands-on experience in Data Analytics and Machine Learning.
 - 🔭 Currently working on projects like:
   - **Application of Image Processing and Machine Learning**: Predictive model to anticipate slug formation.
 - 📫 Reach me at: [zeel0725@gmail.com](mailto:zeel0725@gmail.com)
@@ -22,6 +22,9 @@
 - **Visualization Tools**: Tableau, Gnuplot
 
 ---
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zeel0725&show_icons=true&locale=en&layout=compact" alt="Zeel0725" /></p>
+
 
 ### 🌟 Featured Projects
 
