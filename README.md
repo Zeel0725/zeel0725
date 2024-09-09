@@ -8,7 +8,7 @@
 
 - 🎓 **Mechanical Engineering** undergraduate student with hands-on experience in Data Analytics and Machine Learning.
 - 🔭 Currently working on projects like:
-  - **Application of Image Processing and Machine Learning**: Predictive model to anticipate slug formation.
+  - **Application of Image Processing and Machine Learning**: Model to predict slug formation.
 - 📫 Reach me at: [zeel0725@gmail.com](mailto:zeel0725@gmail.com)
 - 🖇️ Connect with me: [LinkedIn](http://www.linkedin.com/in/Zeel2212) | [GitHub](https://github.com/Zeel0725)
 
