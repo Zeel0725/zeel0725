@@ -1,6 +1,8 @@
 ![Banner](PIC.png)
 
-                                                                                      # Hi, I'm Zeel 👋
+# Hi, I'm Zeel 👋
+<h1 align="center">Hi, I'm Zeel 👋</h1>
+
 
 ### 👨‍💻  Machine Learning Enthusiast 
 
