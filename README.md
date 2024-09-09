@@ -16,7 +16,8 @@
 
 ### 🔧 Technologies & Tools
 
-- **Programming Languages**: Python, C++, JavaScript
+- **Programming Languages**: Python, C++, HTML, CSS, JavaScript
+- **Frameworks**: Django
 - **Machine Learning**: Logistic Regression, Decision Trees, Random Forest
 - **CAD & Simulation**: AutoCAD, Fusion 360
 - **Visualization Tools**: Tableau, Gnuplot
