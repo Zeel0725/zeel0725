@@ -11,8 +11,13 @@
 - 🔭 Currently working on projects like:
   - **Application of Image Processing and Machine Learning**: Model to predict slug formation.
 - 📫 Reach me at: [zeel0725@gmail.com](mailto:zeel0725@gmail.com)
-- 🖇️ Connect with me: [LinkedIn](http://www.linkedin.com/in/Zeel2212) | [GitHub](https://github.com/Zeel0725)
+<!--- 🖇️ Connect with me: [LinkedIn](http://www.linkedin.com/in/Zeel2212) | [GitHub](https://github.com/Zeel0725) --->
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="http://www.linkedin.com/in/Zeel2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/Zeel2212" height="30" width="40" /></a>
+<a href="https://instagram.com/zeel_07_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeel_07_25" height="30" width="40" /></a>
+</p>
 ---
 
 ### 🔧 Technologies & Tools
