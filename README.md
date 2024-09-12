@@ -33,6 +33,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zeel0725&show_icons=true&locale=en&layout=compact" alt="Zeel0725" /></p>
 
+---
 
 ### 🌟 Featured Projects
 
@@ -53,7 +54,8 @@
 
 ---
 
-![Profile Logo](https://your-image-url.com/logo.png)
+<!--![Profile Logo](https://www.credly.com/badges/fb71baa4-e738-4065-b253-295940363186/public_url)---->
+[![Your Badge Title](https://example.com/path/to/badge-image.png)](https://www.credly.com/badges/your-badge-id)
 
 ---
 
