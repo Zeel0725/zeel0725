@@ -55,7 +55,7 @@
 ---
 
 <!--![Profile Logo](https://www.credly.com/badges/fb71baa4-e738-4065-b253-295940363186/public_url)---->
-[![Your Badge Title](https://example.com/path/to/badge-image.png)](https://www.credly.com/badges/your-badge-id)
+[![Your Badge Title](https://github.com/Zeel0725/zeel0725/blob/main/google-advanced-data-analytics-certificate.png)](https://www.credly.com/badges/fb71baa4-e738-4065-b253-295940363186/public_url)
 
 ---
 
