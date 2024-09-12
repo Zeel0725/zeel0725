@@ -1,4 +1,4 @@
-![Banner](PIC.png)
+![logo](PIC.png)
 
 <h1 align="center">Hi, I'm Zeel 👋</h1>
 
