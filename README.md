@@ -38,18 +38,15 @@
 ### 🌟 Featured Projects
 
 - **Employee Attrition Prediction Model**
-  
   Developed a predictive model using **Logistic Regression**, **Decision Tree**, and **Random Forest** algorithms to predict employee attrition.  
   - Performed feature engineering and created new variables based on the available data.
   - Used hyperparameter tuning to improve model performance.
   - Conducted statistical tests to analyze correlations and feature relevance.
   - Compared different models to select the best-performing one.
-  
   [Check the project](https://github.com/Zeel0725/1D-Fin-Temperature-Distribution)
 
 - **1D Fin Temperature Distribution**  
   Developed C++ code to simulate temperature distribution in a 1D fin subjected to volumetric heating. Used the TDMA algorithm and Gnuplot for visualization.
-  
   [Check the project](https://github.com/Zeel0725/1D-Fin-Temperature-Distribution)
 
 - **Taxi Fare Prediction Model**  
