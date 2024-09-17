@@ -43,14 +43,16 @@
   - Used hyperparameter tuning to improve model performance.
   - Conducted statistical tests to analyze correlations and feature relevance.
   - Compared different models to select the best-performing one.
- [Check the project](https://github.com/Zeel0725/1D-Fin-Temperature-Distribution)
+
+[Check the project](https://github.com/Zeel0725/EmployeeAttritionPrediction)
 
 - **1D Fin Temperature Distribution**  
-  Developed C++ code to simulate temperature distribution in a 1D fin subjected to volumetric heating. Used the TDMA algorithm and Gnuplot for visualization.
+  Developed C++ code to simulate temperature distribution in a 1D fin subjected to volumetric heating. Used the TDMA algorithm and Gnuplot for visualization. 
+
 [Check the project](https://github.com/Zeel0725/1D-Fin-Temperature-Distribution)
 
 - **Taxi Fare Prediction Model**  
-  Created a machine learning model to predict taxi fares based on various factors, using Python.  
+  Created a machine learning model to predict taxi fares based on various factors, using Python.
  
 
 ---
