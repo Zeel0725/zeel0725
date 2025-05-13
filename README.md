@@ -61,7 +61,5 @@
 <!--![Profile Logo](https://www.credly.com/badges/fb71baa4-e738-4065-b253-295940363186/public_url)
 [![Your Badge Title](https://github.com/Zeel0725/zeel0725/blob/main/google-advanced-data-analytics-certificate.png)](https://www.credly.com/badges/fb71baa4-e738-4065-b253-295940363186/public_url) ---->
 
----
-
 <!---Feel free to explore my repositories and connect with me! --->
 
