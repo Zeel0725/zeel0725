@@ -7,9 +7,9 @@
 
 ### 🚀 About Me
 
-- 🎓 **Mechanical Engineering** undergraduate student.
-<!- 🔭 Currently working on projects like:
-  - **Application of Image Processing and Machine Learning**: Model to predict slug formation.!>
+<!--- 🎓 **Mechanical Engineering** undergraduate student.
+- 🔭 Currently working on projects like:
+  - **Application of Image Processing and Machine Learning**: Model to predict slug formation. --->
 - 📫 Reach me at: [zeel0725@gmail.com](mailto:zeel0725@gmail.com)
 <!--- 🖇️ Connect with me: [LinkedIn](http://www.linkedin.com/in/Zeel2212) | [GitHub](https://github.com/Zeel0725) --->
 
