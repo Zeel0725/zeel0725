@@ -48,7 +48,7 @@
   [Check the project](https://github.com/Zeel0725/EmployeeAttritionPrediction) --->
 
 - **1D Fin Temperature Distribution**  
-  Undergrtad project.Developed C++ code to simulate temperature distribution in a 1D fin subjected to volumetric heating. Used the TDMA algorithm and Gnuplot for visualization.
+  Undergrad project. Developed a program using C++ code to simulate temperature distribution in a 1D fin subjected to volumetric heating. Used the TDMA algorithm and Gnuplot for             visualization.
 
   [Check the project](https://github.com/Zeel0725/1D-Fin-Temperature-Distribution)
 
@@ -58,10 +58,10 @@
 
 ---
 
-<!--![Profile Logo](https://www.credly.com/badges/fb71baa4-e738-4065-b253-295940363186/public_url)---->
-[![Your Badge Title](https://github.com/Zeel0725/zeel0725/blob/main/google-advanced-data-analytics-certificate.png)](https://www.credly.com/badges/fb71baa4-e738-4065-b253-295940363186/public_url)
+<!--![Profile Logo](https://www.credly.com/badges/fb71baa4-e738-4065-b253-295940363186/public_url)
+[![Your Badge Title](https://github.com/Zeel0725/zeel0725/blob/main/google-advanced-data-analytics-certificate.png)](https://www.credly.com/badges/fb71baa4-e738-4065-b253-295940363186/public_url) ---->
 
 ---
 
-Feel free to explore my repositories and connect with me!
+<!---Feel free to explore my repositories and connect with me! --->
 
