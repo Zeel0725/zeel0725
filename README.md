@@ -7,9 +7,9 @@
 
 ### 🚀 About Me
 
-- 🎓 **Mechanical Engineering** undergraduate student with hands-on experience in Data Analytics and Machine Learning.
-- 🔭 Currently working on projects like:
-  - **Application of Image Processing and Machine Learning**: Model to predict slug formation.
+- 🎓 **Mechanical Engineering** undergraduate student.
+<!- 🔭 Currently working on projects like:
+  - **Application of Image Processing and Machine Learning**: Model to predict slug formation.!>
 - 📫 Reach me at: [zeel0725@gmail.com](mailto:zeel0725@gmail.com)
 <!--- 🖇️ Connect with me: [LinkedIn](http://www.linkedin.com/in/Zeel2212) | [GitHub](https://github.com/Zeel0725) --->
 
@@ -23,11 +23,12 @@
 
 ### 🔧 Technologies & Tools
 
-- **Programming Languages**: Python, C++, HTML, CSS, JavaScript
-- **Frameworks**: Django
-- **Machine Learning**: Logistic Regression, Decision Trees, Random Forest
-- **CAD & Simulation**: AutoCAD, Fusion 360
-- **Visualization Tools**: Tableau, Gnuplot
+- **Programming Languages**: Python
+- **Libraries & Packages**: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
+- **Frameworks**: TensorFlow, PyTorch, Keras, Django
+- **Tools & Platforms**: Git, Tableau, Microsoft Office
+- **IDEs**: Visual Studio Code, IntelliJ IDEA
+- **CAD Software**: SolidWorks, AutoCAD, Autodesk Fusion 360
 
 ---
 
