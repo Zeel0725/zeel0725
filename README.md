@@ -23,9 +23,10 @@
 
 ### 🔧 Technologies & Tools
 
-- **Programming Languages**: Python
-- **Libraries & Packages**: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
-- **Frameworks**: TensorFlow, PyTorch, Keras, Django
+- **Programming Languages**: Python, JavaScript, HTML, CSS
+- **Web Frameworks**: React, Node.js, Django
+- **ML Libraries**: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
+- **ML/Deep Learning Frameworks**: TensorFlow, PyTorch, Keras
 - **Tools & Platforms**: Git, Tableau, Microsoft Office
 - **IDEs**: Visual Studio Code, IntelliJ IDEA
 - **CAD Software**: SolidWorks, AutoCAD, Autodesk Fusion 360
