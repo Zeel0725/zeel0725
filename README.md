@@ -33,7 +33,10 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zeel0725&show_icons=true&locale=en&layout=compact" alt="Zeel0725" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zeel0725&show_icons=true&locale=en&layout=compact" alt="Zeel0725" /></p> --->
+<p>
+  <img align="center" src="https://github-readme-stats-topaz-ten-40.vercel.app//api/top-langs?username=Zeel0725&show_icons=true&locale=en&layout=compact" alt="Zeel0725" />
+</p>
 
 ---
 
