@@ -35,11 +35,11 @@
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zeel0725&show_icons=true&locale=en&layout=compact" alt="Zeel0725" /></p> --->
 <p>
-  <img align="center" src="https://github-readme-stats-topaz-ten-40.vercel.app//api/top-langs?username=Zeel0725&show_icons=true&locale=en&layout=compact" alt="Zeel0725" />
+  <img align="center" src="https://github-readme-stats-topaz-ten-40.vercel.app//api/top-langs?username=Zeel0725&show_icons=true&locale=en&layout=compact&theme=dark" alt="Zeel0725" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zeel0725&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p >
+  <img align="center" src="https://streak-stats.demolab.com?user=Zeel0725&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!--![Zeel's GitHub stats](https://github-readme-stats-topaz-ten-40.vercel.app/api?username=Zeel0725&show_icons=true&theme=radical) -->
