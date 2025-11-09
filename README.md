@@ -24,7 +24,7 @@
 
 ### 🔧 Technologies & Tools
 
-- **Programming Languages**: Python, JavaScript, HTML, CSS
+- **Programming Languages**: Python,CPP, JavaScript, HTML, CSS
 - **Web Frameworks**: React, Node.js, Django
 - **ML Libraries**: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
 - **ML/Deep Learning Frameworks**: TensorFlow, PyTorch, Keras
