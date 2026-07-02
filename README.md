@@ -65,14 +65,16 @@
 
 <!---- **Taxi Fare Prediction Model**  
   Created a machine learning model to predict taxi fares based on various factors, using Python. --->
-## Research
 
-**Emotive Action Recognition**  
-Research volunteer project with PHERL Lab focused on body-language and affect recognition using motion-capture data.
+##  Research
 
-My current work includes mocap data exploration, HDF5 structure inspection, video inventory generation, and identifying proprioceptive body-motion features for future modelling.
+**Emotive Action Recognition**
+Research volunteer project focused on human body movement, non-verbal behaviour, and affective signal understanding for robotics applications.
 
-Repository: https://github.com/pherl-lab/Emotive-Action-Recognition
+My work involves exploring motion-capture and visual data, studying body-movement representations, and developing data-processing pipelines to support future computer vision and machine learning experiments in body-language and affect-recognition modelling.
+
+*Repository is private.*
+
 
 ---
 
