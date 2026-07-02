@@ -59,21 +59,22 @@
   [Check the project](https://github.com/Zeel0725/EmployeeAttritionPrediction) --->
 
 - **1D Fin Temperature Distribution**  
-  Undergrad project. Developed a program using C++ code to simulate temperature distribution in a 1D fin subjected to volumetric heating. Used the TDMA algorithm and Gnuplot for             visualization.
+  Undergrad project. Developed a program using C++ code to simulate temperature distribution in a 1D fin subjected to volumetric heating. Used the TDMA algorithm and Gnuplot for visualization.
 
   [Check the project](https://github.com/Zeel0725/1D-Fin-Temperature-Distribution)
 
 <!---- **Taxi Fare Prediction Model**  
   Created a machine learning model to predict taxi fares based on various factors, using Python. --->
 
-##  Research
+## Research
 
 **Emotive Action Recognition**
 Research volunteer project focused on human body movement, non-verbal behaviour, and affective signal understanding for robotics applications.
 
 My work involves exploring motion-capture and visual data, studying body-movement representations, and developing data-processing pipelines to support future computer vision and machine learning experiments in body-language and affect-recognition modelling.
 
-*Repository is private.*
+Lab: [PHERL Lab](https://github.com/pherl-lab)
+
 
 
 ---
