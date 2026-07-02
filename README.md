@@ -47,7 +47,7 @@
 
 ---
 
-### 🌟 Featured Projects
+<!----### 🌟 Featured Projects ---->
 
 <!---- - **Employee Attrition Prediction Model**
   Developed a predictive model using **Logistic Regression**, **Decision Tree**, and **Random Forest** algorithms to predict employee attrition.  
@@ -58,7 +58,7 @@
   
   [Check the project](https://github.com/Zeel0725/EmployeeAttritionPrediction) --->
 
-- **1D Fin Temperature Distribution**  
+<!----- - **1D Fin Temperature Distribution**  
   Undergrad project. Developed a program using C++ code to simulate temperature distribution in a 1D fin subjected to volumetric heating. Used the TDMA algorithm and Gnuplot for visualization.
 
   [Check the project](https://github.com/Zeel0725/1D-Fin-Temperature-Distribution)
